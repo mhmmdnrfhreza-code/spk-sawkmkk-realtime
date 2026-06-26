@@ -1,0 +1,23 @@
+DATA ATTRIBUTION & LICENCE
+==========================
+
+Live data source: Find a Tender Service / Contracts Finder (GOV.UK)
+Standard: Open Contracting Data Standard (OCDS) v1.1
+API endpoint: https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages
+
+Public sector information from these services is licensed under the
+Open Government Licence v3.0:
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+Required attribution statement (displayed in-app on the About page and footer):
+"Contains public sector information licensed under the Open Government Licence v3.0."
+
+--------------------------------------------------------------------
+OFFLINE SNAPSHOT NOTICE
+--------------------------------------------------------------------
+The bundled file data/snapshot_ocds.json is SYNTHETIC sample data shaped
+as OCDS v1.1 releases. It exists only to let the system run offline / in
+demo mode when the live API is unreachable. Supplier names are real company
+names used illustratively; the award amounts, dates, and statuses are
+GENERATED and do NOT represent real contracts. For real analysis, run
+"Sync Now" while online to ingest actual Find a Tender data.
